@@ -1,24 +1,24 @@
 {
-  "versionCode": 76,
+  "versionCode": 77,
   "versionName": "0.4.23",
   "changelog": [
-    "Novo modo desenvolvedor em Configurações > Sobre.",
-    "Seleção dos servidores 1 e 2 após a ativação do modo desenvolvedor."
+    "Ajustes na tela Sobre: versão centralizada abaixo do botão de atualização.",
+    "Resultado da verificação exibido somente após consulta manual, sem código de versão ou última verificação na tela."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-16T19:18:42Z",
+  "publishedAt": "2026-10-16T19:27:22Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "c29dd8b0b5e3ec6c3fcfbbd16ab0e283e72d9f6c2e7402dff86dad80dc569626",
-      "sizeBytes": 65272464,
+      "sha256": "256875afae7199335d95ae07500534bbb3658c4651d1889c1d44a1cace4670f6",
+      "sizeBytes": 65272280,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "c29dd8b0b5e3ec6c3fcfbbd16ab0e283e72d9f6c2e7402dff86dad80dc569626",
-      "sizeBytes": 65272464,
+      "sha256": "256875afae7199335d95ae07500534bbb3658c4651d1889c1d44a1cace4670f6",
+      "sizeBytes": 65272280,
       "minSdk": 26
     }
   }
