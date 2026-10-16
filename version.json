@@ -1,24 +1,24 @@
 {
-  "versionCode": 75,
-  "versionName": "0.4.22",
+  "versionCode": 76,
+  "versionName": "0.4.23",
   "changelog": [
-    "As barras padrão de vida e colete ficam ocultas quando as interfaces do servidor estão ativadas.",
-    "Ajustes nos textos e avisos exibidos ao jogador."
+    "Novo modo desenvolvedor em Configurações > Sobre.",
+    "Seleção dos servidores 1 e 2 após a ativação do modo desenvolvedor."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-16T18:49:32Z",
+  "publishedAt": "2026-10-16T19:18:42Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "f8f9670385242a09ba57ead4d3d278e5fe9f12f6abab5083613546b8994ec3b4",
-      "sizeBytes": 65269708,
+      "sha256": "c29dd8b0b5e3ec6c3fcfbbd16ab0e283e72d9f6c2e7402dff86dad80dc569626",
+      "sizeBytes": 65272464,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "f8f9670385242a09ba57ead4d3d278e5fe9f12f6abab5083613546b8994ec3b4",
-      "sizeBytes": 65269708,
+      "sha256": "c29dd8b0b5e3ec6c3fcfbbd16ab0e283e72d9f6c2e7402dff86dad80dc569626",
+      "sizeBytes": 65272464,
       "minSdk": 26
     }
   }
