@@ -1,23 +1,24 @@
 {
-  "versionCode": 74,
-  "versionName": "0.4.21",
+  "versionCode": 75,
+  "versionName": "0.4.22",
   "changelog": [
-    "Versão de teste da atualização automática. Sem alterações de funcionalidades."
+    "As barras padrão de vida e colete ficam ocultas quando as interfaces do servidor estão ativadas.",
+    "Ajustes nos textos e avisos exibidos ao jogador."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-16T17:36:58Z",
+  "publishedAt": "2026-10-16T18:49:32Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "df945761353240684b9a96d8ab51927e5c6256014b67ac96b38e0818a64af5e2",
-      "sizeBytes": 65269012,
+      "sha256": "f8f9670385242a09ba57ead4d3d278e5fe9f12f6abab5083613546b8994ec3b4",
+      "sizeBytes": 65269708,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "df945761353240684b9a96d8ab51927e5c6256014b67ac96b38e0818a64af5e2",
-      "sizeBytes": 65269012,
+      "sha256": "f8f9670385242a09ba57ead4d3d278e5fe9f12f6abab5083613546b8994ec3b4",
+      "sizeBytes": 65269708,
       "minSdk": 26
     }
   }
