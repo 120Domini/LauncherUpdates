@@ -1,0 +1,25 @@
+{
+  "versionCode": 71,
+  "versionName": "0.4.18-alyn17",
+  "changelog": [
+    "Atualizações automáticas integradas ao launcher.",
+    "Download da versão universal com validação de integridade."
+  ],
+  "mandatory": false,
+  "minSupportedVersionCode": 0,
+  "publishedAt": "2026-10-16T01:58:26Z",
+  "apks": {
+    "armeabi-v7a": {
+      "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
+      "sha256": "7d18e390cc0fc8a451edaf538442ddf7285cfb1185c18e525b15438e4eed5492",
+      "sizeBytes": 65268796,
+      "minSdk": 26
+    },
+    "arm64-v8a": {
+      "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
+      "sha256": "7d18e390cc0fc8a451edaf538442ddf7285cfb1185c18e525b15438e4eed5492",
+      "sizeBytes": 65268796,
+      "minSdk": 26
+    }
+  }
+}
