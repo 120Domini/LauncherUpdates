@@ -1,25 +1,25 @@
 {
-  "versionCode": 78,
-  "versionName": "0.4.24",
+  "versionCode": 79,
+  "versionName": "0.4.25",
   "changelog": [
-    "Correção do VOIP ao receber a voz de outros jogadores.",
-    "Ajustes na captura e reprodução do áudio de voz.",
-    "Novos ícones de microfone e alto-falante, independentes das texturas do pacote de dados."
+    "Corrigido o ganho do microfone na transmissão do chat de voz.",
+    "Configuração de ganho aplicada ao áudio enviado no Android.",
+    "Falhas ao iniciar a captura do microfone agora são registradas."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-16T20:01:01Z",
+  "publishedAt": "2026-10-16T20:40:17Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "6dbe4f0e755f12a6b4191fafa4578e0feae24bb2c316893f9e0698229c8ba812",
-      "sizeBytes": 65275612,
+      "sha256": "30bb431de97d18976230a1e55467aa5edce9fa154139964e64cabb6a904dba34",
+      "sizeBytes": 65275972,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "6dbe4f0e755f12a6b4191fafa4578e0feae24bb2c316893f9e0698229c8ba812",
-      "sizeBytes": 65275612,
+      "sha256": "30bb431de97d18976230a1e55467aa5edce9fa154139964e64cabb6a904dba34",
+      "sizeBytes": 65275972,
       "minSdk": 26
     }
   }
