@@ -1,24 +1,25 @@
 {
-  "versionCode": 77,
-  "versionName": "0.4.23",
+  "versionCode": 78,
+  "versionName": "0.4.24",
   "changelog": [
-    "Ajustes na tela Sobre: versão centralizada abaixo do botão de atualização.",
-    "Resultado da verificação exibido somente após consulta manual, sem código de versão ou última verificação na tela."
+    "Correção do VOIP ao receber a voz de outros jogadores.",
+    "Ajustes na captura e reprodução do áudio de voz.",
+    "Novos ícones de microfone e alto-falante, independentes das texturas do pacote de dados."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-16T19:27:22Z",
+  "publishedAt": "2026-10-16T20:01:01Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "256875afae7199335d95ae07500534bbb3658c4651d1889c1d44a1cace4670f6",
-      "sizeBytes": 65272280,
+      "sha256": "6dbe4f0e755f12a6b4191fafa4578e0feae24bb2c316893f9e0698229c8ba812",
+      "sizeBytes": 65275612,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "256875afae7199335d95ae07500534bbb3658c4651d1889c1d44a1cace4670f6",
-      "sizeBytes": 65272280,
+      "sha256": "6dbe4f0e755f12a6b4191fafa4578e0feae24bb2c316893f9e0698229c8ba812",
+      "sizeBytes": 65275612,
       "minSdk": 26
     }
   }
