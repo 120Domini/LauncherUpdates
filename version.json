@@ -1,25 +1,24 @@
 {
-  "versionCode": 79,
-  "versionName": "0.4.25",
+  "versionCode": 85,
+  "versionName": "0.4.31",
   "changelog": [
-    "Corrigido o ganho do microfone na transmissão do chat de voz.",
-    "Configuração de ganho aplicada ao áudio enviado no Android.",
-    "Falhas ao iniciar a captura do microfone agora são registradas."
+    "Corrigida a direcao dos eixos ao girar a camera no editor de acessorios.",
+    "Alcas proximas preservam a projecao real; eixo visto de frente usa indicador de profundidade."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-16T20:40:17Z",
+  "publishedAt": "2026-10-17T15:02:28Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "30bb431de97d18976230a1e55467aa5edce9fa154139964e64cabb6a904dba34",
-      "sizeBytes": 65275972,
+      "sha256": "b6e87a090c54af1520688d08fa79db474851f902c80b90fe5498c01322838eec",
+      "sizeBytes": 65307508,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "30bb431de97d18976230a1e55467aa5edce9fa154139964e64cabb6a904dba34",
-      "sizeBytes": 65275972,
+      "sha256": "b6e87a090c54af1520688d08fa79db474851f902c80b90fe5498c01322838eec",
+      "sizeBytes": 65307508,
       "minSdk": 26
     }
   }
