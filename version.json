@@ -1,26 +1,26 @@
 {
-  "versionCode": 92,
-  "versionName": "0.4.38",
+  "versionCode": 93,
+  "versionName": "0.4.39",
   "changelog": [
-    "Menu rapido de tres barras ao lado esquerdo do painel de acoes.",
-    "CMDs rapidos para /cl, /trancar e /jetpack.",
-    "Configuracoes para arrastar, salvar, cancelar ou restaurar a posicao do VOIP.",
-    "Posicao do microfone preservada entre sessoes e ajustada a resolucao da tela."
+    "Menu rapido com seletor entre CMDs rapidos e Configuracoes.",
+    "Cinco atalhos de comandos personalizaveis, com suporte a parametros.",
+    "Editor para salvar ou remover os cinco comandos, preservados entre sessoes.",
+    "Configuracao dos atalhos preserva a posicao personalizada do VOIP."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-17T21:08:18Z",
+  "publishedAt": "2026-10-17T21:19:05Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "46560ff0f6fd391e3ca863fca7781d7db18a2fb5fc065420a2dc784309273de1",
-      "sizeBytes": 65324168,
+      "sha256": "eecc7a15e337353bcef954cf50f0e2d7181e0abb8fd47bb163b5caf9648413ca",
+      "sizeBytes": 65353688,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "46560ff0f6fd391e3ca863fca7781d7db18a2fb5fc065420a2dc784309273de1",
-      "sizeBytes": 65324168,
+      "sha256": "eecc7a15e337353bcef954cf50f0e2d7181e0abb8fd47bb163b5caf9648413ca",
+      "sizeBytes": 65353688,
       "minSdk": 26
     }
   }
