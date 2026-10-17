@@ -1,26 +1,26 @@
 {
-  "versionCode": 93,
-  "versionName": "0.4.39",
+  "versionCode": 94,
+  "versionName": "0.4.40",
   "changelog": [
-    "Menu rapido com seletor entre CMDs rapidos e Configuracoes.",
-    "Cinco atalhos de comandos personalizaveis, com suporte a parametros.",
-    "Editor para salvar ou remover os cinco comandos, preservados entre sessoes.",
-    "Configuracao dos atalhos preserva a posicao personalizada do VOIP."
+    "Configuracoes do menu rapido com switches para Ocultar Chat, Time Stamp e Chat Kill.",
+    "Ajuste da quantidade de linhas do chat dentro do jogo, de 1 a 20.",
+    "Preferencias do chat salvas junto com os atalhos e a posicao do VOIP.",
+    "Time Stamp e Chat Kill sincronizados com os comandos locais /timestamp e /dw."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-17T21:19:05Z",
+  "publishedAt": "2026-10-17T21:35:42Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "eecc7a15e337353bcef954cf50f0e2d7181e0abb8fd47bb163b5caf9648413ca",
-      "sizeBytes": 65353688,
+      "sha256": "d91fbf0113b23b893ffcf0c9f3d733df1d9eefe65502ee831fdddcba667841c1",
+      "sizeBytes": 65362080,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "eecc7a15e337353bcef954cf50f0e2d7181e0abb8fd47bb163b5caf9648413ca",
-      "sizeBytes": 65353688,
+      "sha256": "d91fbf0113b23b893ffcf0c9f3d733df1d9eefe65502ee831fdddcba667841c1",
+      "sizeBytes": 65362080,
       "minSdk": 26
     }
   }
