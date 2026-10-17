@@ -1,24 +1,25 @@
 {
-  "versionCode": 90,
-  "versionName": "0.4.36",
+  "versionCode": 91,
+  "versionName": "0.4.37",
   "changelog": [
-    "Bordas dos botoes do jogo atualizadas para o vermelho #FF4242 do SanForge.",
-    "Linha do campo de texto ao abrir o chat atualizada para #FF4242."
+    "Icones de barra, historico e envio do chat atualizados para #FF4242.",
+    "Fundo da barra de digitacao do chat com 60% de opacidade.",
+    "Botoes de acao com destaque vermelho claro #FF8585 ao pressionar."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-17T20:49:21Z",
+  "publishedAt": "2026-10-17T20:55:22Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "e2696b07e82552d22c6a4f56bd0ad9bf8387c18af8eb94debad5d663b5c05cb0",
-      "sizeBytes": 65309152,
+      "sha256": "70068f275c3421897fb42b6eddea0762d8a14fa3fbc5924482cedb79dbe896a3",
+      "sizeBytes": 65309728,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "e2696b07e82552d22c6a4f56bd0ad9bf8387c18af8eb94debad5d663b5c05cb0",
-      "sizeBytes": 65309152,
+      "sha256": "70068f275c3421897fb42b6eddea0762d8a14fa3fbc5924482cedb79dbe896a3",
+      "sizeBytes": 65309728,
       "minSdk": 26
     }
   }
