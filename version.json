@@ -1,24 +1,24 @@
 {
-  "versionCode": 87,
-  "versionName": "0.4.33",
+  "versionCode": 90,
+  "versionName": "0.4.36",
   "changelog": [
-    "Corrigida a exibicao dos eixos em portoes e moveis estaticos.",
-    "Objetos visiveis nao dependem mais da lista de movimento do GTA para abrir o editor visual."
+    "Bordas dos botoes do jogo atualizadas para o vermelho #FF4242 do SanForge.",
+    "Linha do campo de texto ao abrir o chat atualizada para #FF4242."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-17T16:06:30Z",
+  "publishedAt": "2026-10-17T20:49:21Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "6c73fb989007cc6108b2c265da16e0345fea71d65f78e7f01b34804cae907598",
-      "sizeBytes": 65308844,
+      "sha256": "e2696b07e82552d22c6a4f56bd0ad9bf8387c18af8eb94debad5d663b5c05cb0",
+      "sizeBytes": 65309152,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "6c73fb989007cc6108b2c265da16e0345fea71d65f78e7f01b34804cae907598",
-      "sizeBytes": 65308844,
+      "sha256": "e2696b07e82552d22c6a4f56bd0ad9bf8387c18af8eb94debad5d663b5c05cb0",
+      "sizeBytes": 65309152,
       "minSdk": 26
     }
   }
