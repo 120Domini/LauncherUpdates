@@ -1,24 +1,24 @@
 {
-  "versionCode": 85,
-  "versionName": "0.4.31",
+  "versionCode": 87,
+  "versionName": "0.4.33",
   "changelog": [
-    "Corrigida a direcao dos eixos ao girar a camera no editor de acessorios.",
-    "Alcas proximas preservam a projecao real; eixo visto de frente usa indicador de profundidade."
+    "Corrigida a exibicao dos eixos em portoes e moveis estaticos.",
+    "Objetos visiveis nao dependem mais da lista de movimento do GTA para abrir o editor visual."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-17T15:02:28Z",
+  "publishedAt": "2026-10-17T16:06:30Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "b6e87a090c54af1520688d08fa79db474851f902c80b90fe5498c01322838eec",
-      "sizeBytes": 65307508,
+      "sha256": "6c73fb989007cc6108b2c265da16e0345fea71d65f78e7f01b34804cae907598",
+      "sizeBytes": 65308844,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "b6e87a090c54af1520688d08fa79db474851f902c80b90fe5498c01322838eec",
-      "sizeBytes": 65307508,
+      "sha256": "6c73fb989007cc6108b2c265da16e0345fea71d65f78e7f01b34804cae907598",
+      "sizeBytes": 65308844,
       "minSdk": 26
     }
   }
