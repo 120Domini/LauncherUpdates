@@ -1,25 +1,26 @@
 {
-  "versionCode": 91,
-  "versionName": "0.4.37",
+  "versionCode": 92,
+  "versionName": "0.4.38",
   "changelog": [
-    "Icones de barra, historico e envio do chat atualizados para #FF4242.",
-    "Fundo da barra de digitacao do chat com 60% de opacidade.",
-    "Botoes de acao com destaque vermelho claro #FF8585 ao pressionar."
+    "Menu rapido de tres barras ao lado esquerdo do painel de acoes.",
+    "CMDs rapidos para /cl, /trancar e /jetpack.",
+    "Configuracoes para arrastar, salvar, cancelar ou restaurar a posicao do VOIP.",
+    "Posicao do microfone preservada entre sessoes e ajustada a resolucao da tela."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-17T20:55:22Z",
+  "publishedAt": "2026-10-17T21:08:18Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "70068f275c3421897fb42b6eddea0762d8a14fa3fbc5924482cedb79dbe896a3",
-      "sizeBytes": 65309728,
+      "sha256": "46560ff0f6fd391e3ca863fca7781d7db18a2fb5fc065420a2dc784309273de1",
+      "sizeBytes": 65324168,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "70068f275c3421897fb42b6eddea0762d8a14fa3fbc5924482cedb79dbe896a3",
-      "sizeBytes": 65309728,
+      "sha256": "46560ff0f6fd391e3ca863fca7781d7db18a2fb5fc065420a2dc784309273de1",
+      "sizeBytes": 65324168,
       "minSdk": 26
     }
   }
