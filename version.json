@@ -1,26 +1,26 @@
 {
-  "versionCode": 94,
-  "versionName": "0.4.40",
+  "versionCode": 99,
+  "versionName": "0.4.45",
   "changelog": [
-    "Configuracoes do menu rapido com switches para Ocultar Chat, Time Stamp e Chat Kill.",
-    "Ajuste da quantidade de linhas do chat dentro do jogo, de 1 a 20.",
-    "Preferencias do chat salvas junto com os atalhos e a posicao do VOIP.",
-    "Time Stamp e Chat Kill sincronizados com os comandos locais /timestamp e /dw."
+    "Instalacao simplificada, sem a opcao de importar ZIP.",
+    "Identificacao SanForge padronizada na interface e nos novos registros do jogo.",
+    "Verificacao SHA-256 do pacote de dados e ajustes de compatibilidade do launcher.",
+    "Mensagens informativas longas do chat preservadas sem limite de buffer fixo."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-17T21:35:42Z",
+  "publishedAt": "2026-10-19T13:21:11Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "d91fbf0113b23b893ffcf0c9f3d733df1d9eefe65502ee831fdddcba667841c1",
-      "sizeBytes": 65362080,
+      "sha256": "3de30367e3f99bc9089aced5480faa93f142e1cf9f15fca8b7ffb303ed32c9f1",
+      "sizeBytes": 65372116,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "d91fbf0113b23b893ffcf0c9f3d733df1d9eefe65502ee831fdddcba667841c1",
-      "sizeBytes": 65362080,
+      "sha256": "3de30367e3f99bc9089aced5480faa93f142e1cf9f15fca8b7ffb303ed32c9f1",
+      "sizeBytes": 65372116,
       "minSdk": 26
     }
   }
