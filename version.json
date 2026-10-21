@@ -1,26 +1,24 @@
 {
-  "versionCode": 99,
-  "versionName": "0.4.45",
+  "versionCode": 100,
+  "versionName": "0.4.46",
   "changelog": [
-    "Instalacao simplificada, sem a opcao de importar ZIP.",
-    "Identificacao SanForge padronizada na interface e nos novos registros do jogo.",
-    "Verificacao SHA-256 do pacote de dados e ajustes de compatibilidade do launcher.",
-    "Mensagens informativas longas do chat preservadas sem limite de buffer fixo."
+    "Corrigido o fechamento do jogo na inicialização em aparelhos com Android 16.",
+    "Mantida a compatibilidade com versões anteriores do Android e com o LDPlayer."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-19T13:21:11Z",
+  "publishedAt": "2026-10-21T16:28:31Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "3de30367e3f99bc9089aced5480faa93f142e1cf9f15fca8b7ffb303ed32c9f1",
-      "sizeBytes": 65372116,
+      "sha256": "c746034899359a31962c94d347716356472b0f7284fe304100bb9b36b32fca71",
+      "sizeBytes": 65372388,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "3de30367e3f99bc9089aced5480faa93f142e1cf9f15fca8b7ffb303ed32c9f1",
-      "sizeBytes": 65372116,
+      "sha256": "c746034899359a31962c94d347716356472b0f7284fe304100bb9b36b32fca71",
+      "sizeBytes": 65372388,
       "minSdk": 26
     }
   }
