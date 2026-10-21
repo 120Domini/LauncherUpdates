@@ -2,8 +2,7 @@
   "versionCode": 100,
   "versionName": "0.4.46",
   "changelog": [
-    "Corrigido o fechamento do jogo na inicialização em aparelhos com Android 16.",
-    "Mantida a compatibilidade com versões anteriores do Android e com o LDPlayer."
+    "Corrigido o fechamento do jogo na inicialização em aparelhos com Android 16."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
