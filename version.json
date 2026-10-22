@@ -1,23 +1,23 @@
 {
-  "versionCode": 100,
-  "versionName": "0.4.46",
+  "versionCode": 104,
+  "versionName": "0.4.50",
   "changelog": [
-    "Corrigido o fechamento do jogo na inicialização em aparelhos com Android 16."
+    "Atualizado o download da DATA (GTA)."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-21T16:28:31Z",
+  "publishedAt": "2026-10-22T22:37:15Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "c746034899359a31962c94d347716356472b0f7284fe304100bb9b36b32fca71",
-      "sizeBytes": 65372388,
+      "sha256": "b0391088cc090f016ea6df9fb9c4090fda50652ae4b1f9c023e248f0456bdd20",
+      "sizeBytes": 65372736,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "c746034899359a31962c94d347716356472b0f7284fe304100bb9b36b32fca71",
-      "sizeBytes": 65372388,
+      "sha256": "b0391088cc090f016ea6df9fb9c4090fda50652ae4b1f9c023e248f0456bdd20",
+      "sizeBytes": 65372736,
       "minSdk": 26
     }
   }
