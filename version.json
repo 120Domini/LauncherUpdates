@@ -1,6 +1,6 @@
 {
-  "versionCode": 105,
-  "versionName": "0.4.51",
+  "versionCode": 106,
+  "versionName": "0.4.52",
   "changelog": [
     "Adicionado um novo menu TAB.",
     "Adicionado suporte nativo a emuladores e teclados no Launcher, com teclas personalizáveis nas configurações.",
@@ -9,18 +9,18 @@
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-24T22:19:16Z",
+  "publishedAt": "2026-10-24T22:41:46Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "80af79ffe2a19f8d22d60383135190d54ea8121d67a035da785c34d273480f12",
-      "sizeBytes": 65440340,
+      "sha256": "73561f96c35d9c740c6ad8ec77c3edcb1e6331063979f9f7bd92bd4481339144",
+      "sizeBytes": 65440304,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "80af79ffe2a19f8d22d60383135190d54ea8121d67a035da785c34d273480f12",
-      "sizeBytes": 65440340,
+      "sha256": "73561f96c35d9c740c6ad8ec77c3edcb1e6331063979f9f7bd92bd4481339144",
+      "sizeBytes": 65440304,
       "minSdk": 26
     }
   }
