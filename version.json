@@ -1,23 +1,26 @@
 {
-  "versionCode": 104,
-  "versionName": "0.4.50",
+  "versionCode": 105,
+  "versionName": "0.4.51",
   "changelog": [
-    "Atualizado o download da DATA (GTA)."
+    "Adicionado um novo menu TAB.",
+    "Adicionado suporte nativo a emuladores e teclados no Launcher, com teclas personalizáveis nas configurações.",
+    "GPS nativo com rotas para checkpoints e marcações do mapa.",
+    "Opção GPS nativo em Configurações > Jogo, ativada por padrão."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-22T22:37:15Z",
+  "publishedAt": "2026-10-24T22:19:16Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "b0391088cc090f016ea6df9fb9c4090fda50652ae4b1f9c023e248f0456bdd20",
-      "sizeBytes": 65372736,
+      "sha256": "80af79ffe2a19f8d22d60383135190d54ea8121d67a035da785c34d273480f12",
+      "sizeBytes": 65440340,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "b0391088cc090f016ea6df9fb9c4090fda50652ae4b1f9c023e248f0456bdd20",
-      "sizeBytes": 65372736,
+      "sha256": "80af79ffe2a19f8d22d60383135190d54ea8121d67a035da785c34d273480f12",
+      "sizeBytes": 65440340,
       "minSdk": 26
     }
   }
