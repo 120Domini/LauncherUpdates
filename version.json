@@ -1,26 +1,25 @@
 {
-  "versionCode": 106,
-  "versionName": "0.4.52",
+  "versionCode": 109,
+  "versionName": "0.4.55",
   "changelog": [
-    "Adicionado um novo menu TAB.",
-    "Adicionado suporte nativo a emuladores e teclados no Launcher, com teclas personalizáveis nas configurações.",
-    "GPS nativo com rotas para checkpoints e marcações do mapa.",
-    "Opção GPS nativo em Configurações > Jogo, ativada por padrão."
+    "Corrigido o teleporte ao enquanto de surf.",
+    "Botão de passageiro exibido corretamente.",
+    "Nova tela de carregamento."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-10-24T22:41:46Z",
+  "publishedAt": "2026-11-11T19:52:17Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "73561f96c35d9c740c6ad8ec77c3edcb1e6331063979f9f7bd92bd4481339144",
-      "sizeBytes": 65440304,
+      "sha256": "5e72cb2716ba12d105dd905d033f22729abe9af0dfc1a4a3bc7d870a611f4e7c",
+      "sizeBytes": 65819657,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "73561f96c35d9c740c6ad8ec77c3edcb1e6331063979f9f7bd92bd4481339144",
-      "sizeBytes": 65440304,
+      "sha256": "5e72cb2716ba12d105dd905d033f22729abe9af0dfc1a4a3bc7d870a611f4e7c",
+      "sizeBytes": 65819657,
       "minSdk": 26
     }
   }
