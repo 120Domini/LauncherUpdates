@@ -1,25 +1,23 @@
 {
-  "versionCode": 109,
-  "versionName": "0.4.55",
+  "versionCode": 110,
+  "versionName": "0.4.56",
   "changelog": [
-    "Corrigido o teleporte ao enquanto de surf.",
-    "Botão de passageiro exibido corretamente.",
-    "Nova tela de carregamento."
+    "Atualizada a conexão do servidor."
   ],
   "mandatory": false,
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-11-11T19:52:17Z",
+  "publishedAt": "2026-11-16T16:52:28Z",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "5e72cb2716ba12d105dd905d033f22729abe9af0dfc1a4a3bc7d870a611f4e7c",
-      "sizeBytes": 65819657,
+      "sha256": "cb63ea00382b69c1e1358f21b45344900bae5b73e1f8c55cbe9b92224eeae127",
+      "sizeBytes": 65819625,
       "minSdk": 26
     },
     "arm64-v8a": {
       "url": "https://github.com/120Domini/LauncherUpdates/releases/download/Att/SanForge.apk",
-      "sha256": "5e72cb2716ba12d105dd905d033f22729abe9af0dfc1a4a3bc7d870a611f4e7c",
-      "sizeBytes": 65819657,
+      "sha256": "cb63ea00382b69c1e1358f21b45344900bae5b73e1f8c55cbe9b92224eeae127",
+      "sizeBytes": 65819625,
       "minSdk": 26
     }
   }
